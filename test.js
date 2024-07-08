@@ -38,6 +38,7 @@ console.log(multiply(0, 10)); // Expected output: 0
 
 console.log("Testing divide function:");
 console.log(divide(10, 2)); // Expected output: 5
+console.log("Hello World");
 try {
     console.log(divide(10, 0)); // Expected output: Error
 } catch (error) {
